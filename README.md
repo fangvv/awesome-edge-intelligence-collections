@@ -1,5 +1,32 @@
 Please note that I just want to collect these links from the original sites for research purposes.
 
+https://zhuanlan.zhihu.com/p/58705979
+
+http://blog.csdn.net/wspba/article/details/75671573
+
+https://www.ctolib.com/ZhishengWang-Embedded-Neural-Network.html
+
+https://blog.csdn.net/touch_dream/article/details/78441332
+
+https://zhuanlan.zhihu.com/p/28439056
+
+https://blog.csdn.net/QcloudCommunity/article/details/77719498
+
+https://www.cnblogs.com/zhonghuasong/p/7493475.html
+
+https://blog.csdn.net/jackytintin/article/details/53445280
+
+https://zhuanlan.zhihu.com/p/27747628
+
+https://blog.csdn.net/shuzfan/article/category/6271575
+
+https://blog.csdn.net/cookie_234
+
+https://www.jianshu.com/u/f5c90c3856bb
+
+
+
+
 https://github.com/sun254/awesome-model-compression-and-acceleration
 
 # awesome-model-compression-and-acceleration
