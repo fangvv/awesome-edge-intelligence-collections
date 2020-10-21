@@ -1,4 +1,4 @@
-Please note that I just want to collect these links from the original sites for research purposes.
+Please note that I just want to collect these links from the original sites for research purposes. Welcome to join us to discuss interesting ideas on efficient DNN training/inference. 
 
 https://zhuanlan.zhihu.com/p/58705979
 
