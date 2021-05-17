@@ -1,4 +1,4 @@
-这个库纯粹是因为我比较懒，所以搞了个集合，方便自己用而已，后来点star的越来越多，有点意外。我们组(https://fangvv.gitee.io/homepage/Edgecomp/)正在做相关的研究工作，在我的账号fangvv下会不断地发布相关的论文代码，希望大家多多交流，互相学习。
+这个库纯粹是因为我比较懒，所以搞了个集合，方便自己用而已，后来点star的越来越多，有点意外。我们组 [主页](https://fangvv.gitee.io/homepage/Edgecomp/) 正在做相关的研究工作，在我的账号fangvv下会不断地发布相关的论文代码，希望大家多多交流，互相学习。
 
 Please note that I just want to collect these links from the original sites for research purposes. Welcome to join us to discuss interesting ideas on efficient DNN training/inference. 
 
